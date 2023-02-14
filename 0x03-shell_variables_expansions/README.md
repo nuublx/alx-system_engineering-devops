@@ -5,3 +5,4 @@
 4-global_variable => prints allenvironment variables.
 5-local_variables => lists all local variables and environment variables and functions
 6-create_local_variable => creates a new local variable BEST has the value "school"
+7-create_global_variable => creates a new global variable BEST has the value "School".
